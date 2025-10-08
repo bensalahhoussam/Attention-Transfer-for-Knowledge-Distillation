@@ -7,11 +7,12 @@ PyTorch code for "Paying More Attention to Attention: Improving the Performance 
 
 
 
+## Experiments
+code  includes:
 
-
-Activation-based spatial attention transfer implementation
-Knowledge distillation implementation
-Similarity-preserving knowledge distillation implementation
+* Activation-based spatial attention transfer implementation
+* Knowledge distillation implementation
+* Similarity-preserving knowledge distillation implementation
 
 | Model | Resnet18 (F1) | Resnet101 (F1) |
 |-----------|-----------|-----------|
