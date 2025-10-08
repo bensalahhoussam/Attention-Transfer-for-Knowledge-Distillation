@@ -2,7 +2,7 @@
 
 PyTorch code for "Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer
 
-https://cloud.githubusercontent.com/assets/4953728/22037632/04f54a7e-dd09-11e6-9a6b-62133fbc1c29.png
+<img width="320" height="382" alt="image" src="https://github.com/user-attachments/assets/94b7b3fc-f1ac-4e5e-9160-c2510ef6321b" />
 
 
 
